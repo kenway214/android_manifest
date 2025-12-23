@@ -48,6 +48,9 @@
   <remote  name="gitlab"
            fetch="https://gitlab.com" />
 
+  <remote name="codeberg" 
+           fetch="https://codeberg.org/" />        
+
   <!-- Lineage -->
   <remote  name="lineage"
            fetch="https://github.com/LineageOS"
